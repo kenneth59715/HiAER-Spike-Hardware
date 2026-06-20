@@ -60,9 +60,5 @@ bash run_all_tests_multicore.sh
 
 ## Contacts
 
-- **Omowuyi Olajide** (omowuyi@gmail.com) — PhD student, hardware lead
-- **Leif Gibb** — Faculty advisor
-- **Gwen Fawrseren** — Software/testing
-- **Christopher Deng** — Testing suite
-- **Kenneth Yoshimoto** — SDSC/NSG infrastructure
-- **Paresh Kurdekar Vasanth** — Multicore NoC
+- **Omowuyi Olajide** (omowuyi@gmail.com)
+
