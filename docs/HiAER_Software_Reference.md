@@ -530,12 +530,3 @@ Total system: 41 FPGAs × 2,097,152 = 85,983,232 neurons (at 16 cores/FPGA)
 | Hardware (Lab) | github.com/Integrated-Systems-Neuroengineering/HiAER-Spike-Hardware | main | — |
 
 ---
-
-## 13. Contact
-
-- **Hardware (NoC, FPGA, bitstream):** Omowuyi Olajide
-- **Software (hs_api, testing-suite):** Christopher Deng
-- **Software (connectome_utils, partitioning):** Gwen
-- **Multicore/NoC collaboration:** Paresh Kurdekar Vasanth
-- **Advisor:** Leif Gibb
-- **SDSC/NSG:** Kenneth Yoshimoto
